@@ -24,7 +24,7 @@
 </div>
  
  
-<div style="display: inline_block">
+<div>
     <a href="https://www.linkedin.com/in/dan-filipe-89128514a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/_danfilipe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  </div>
